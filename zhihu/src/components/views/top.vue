@@ -43,7 +43,7 @@ export default {
   }
 
   .right {
-       float: right;
+       float: left;
     padding-right: 0.3rem;
   }
 
