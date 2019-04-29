@@ -12,8 +12,18 @@ export default new Router({
     
       },
       {
+        path:'/aaa',
+        component:index,
+    
+      },
+      {
         path:'/xq/:id',
         component:xq
+      },
+      {
+        path:'/bbb',
+        component:index,
+    
       },
       {
         path:"*",
