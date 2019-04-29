@@ -9,6 +9,7 @@
       <span class="iconfont icon-dashujukeshihuaico-"></span>
     </div>
     <div class="left">
+      <div>111</div>
       <span class="iconfont icon-caidan"></span>
       <span class="shouye">首页</span>
     </div>
@@ -16,6 +17,7 @@
       <span class="iconfont icon-xiaoxitongzhitixinglingshenglingdang-xianxing"></span>
       <span class="iconfont icon-dashujukeshihuaico-"></span>
     </div>
+    <div>111</div>
   </div>
 </template>
 
