@@ -1,13 +1,21 @@
 <template>
   <div class="wrapper">
-      <div class="left">
-          <span class="iconfont icon-caidan"></span>
-          <span class="shouye">首页</span>
-      </div>
-      <div class="right">
-          <span class="iconfont icon-xiaoxitongzhitixinglingshenglingdang-xianxing"></span>
-          <span class="iconfont icon-dashujukeshihuaico-"></span>
-      </div>
+    <div class="left">
+      <span class="iconfont icon-caidan"></span>
+      <span class="shouye">首页</span>
+    </div>
+    <div class="right">
+      <span class="iconfont icon-xiaoxitongzhitixinglingshenglingdang-xianxing"></span>
+      <span class="iconfont icon-dashujukeshihuaico-"></span>
+    </div>
+    <div class="left">
+      <span class="iconfont icon-caidan"></span>
+      <span class="shouye">首页</span>
+    </div>
+    <div class="right">
+      <span class="iconfont icon-xiaoxitongzhitixinglingshenglingdang-xianxing"></span>
+      <span class="iconfont icon-dashujukeshihuaico-"></span>
+    </div>
   </div>
 </template>
 
@@ -43,7 +51,7 @@ export default {
   }
 
   .right {
-       float: left;
+    float: right;
     padding-right: 0.3rem;
   }
 
